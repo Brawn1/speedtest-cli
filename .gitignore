@@ -1,3 +1,6 @@
+# pyCharm
+.idea/
+
 *.py[co]
 
 # Packages
